@@ -274,8 +274,8 @@ main {
 }
 
 .card1 {
-  background: #d1ecf1;
-  color: #35a4ba;
+  background: #012e69;
+  color: #ffffff;
   text-align: center;
   padding: 25px;
   border-radius: 5px;
@@ -283,8 +283,8 @@ main {
 }
 
 .card2 {
-  background: #d2f9ee;
-  color: #38e1b0;
+  background: #3e997f;
+  color: #dcebe6;
   text-align: center;
   padding: 25px;
   border-radius: 5px;
@@ -292,8 +292,8 @@ main {
 }
 
 .card3 {
-  background: #d6d8d9;
-  color: #3a3e41;
+  background: #959697;
+  color: #d9e8f3;
   text-align: center;
   padding: 25px;
   border-radius: 5px;
@@ -301,8 +301,8 @@ main {
 }
 
 .card4 {
-  background: #fddcdf;
-  color: #f65a6f;
+  background: #f65a6f;
+  color: #f1ebec;
   text-align: center;
   padding: 25px;
   border-radius: 5px;
@@ -312,7 +312,7 @@ main {
 /*  SIDEBAR STARTS HERE  */
 
 #sidebar {
-  background: #020509;
+  background: #012e69;
   grid-area: sidebar;
   overflow-y: auto;
   padding: 20px;
@@ -366,17 +366,17 @@ main {
 }
 
 .active_menu_link {
-  background: rgba(62, 161, 117, 0.3);
-  color: #3ea175;
+  background: rgba(192, 199, 196, 0.3);
+  color: #a8f3d1;
 }
 
 .active_menu_link a {
-  color: #3ea175 !important;
+  color: #abf1d2 !important;
 }
 
 .sidebar__link > a {
   text-decoration: none;
-  color: #a5aaad;
+  color: #cce0ec;
   font-weight: 700;
 }
 
